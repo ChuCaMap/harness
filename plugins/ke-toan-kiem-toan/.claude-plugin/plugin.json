@@ -1,0 +1,7 @@
+{
+  "name": "ke-toan-kiem-toan",
+  "description": "Bộ phận Kế toán (ke-toan) và Kiểm toán nội bộ độc lập (kiem-toan). Kiểm toán chỉ đọc; mỗi lệnh Bash của kiểm toán đều hỏi người dùng trước khi chạy.",
+  "version": "1.0.0",
+  "author": { "name": "chucamap" },
+  "keywords": ["ke-toan", "kiem-toan", "accounting", "audit", "vas"]
+}

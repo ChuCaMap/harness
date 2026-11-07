@@ -44,7 +44,7 @@ Việc đã có skill thì **dùng skill, không làm lại theo cách khác** (
 1. File kết quả (đường dẫn cụ thể).
 2. **Bảng tự kiểm**: từng phép cân ở nguyên tắc 3 → Đạt / Lệch (số lệch, vị trí ô).
 3. Danh sách giả định, chỗ thiếu dữ liệu, chỗ cần Giám đốc quyết.
-4. Câu bàn giao cho kiểm toán: "Đề nghị `kiem-toan` soát: <file>, <kỳ>, <các khoản trọng yếu>".
+4. Câu bàn giao cho kiểm toán: "Đề nghị `kiem-toan` (trong plugin: `ke-toan-kiem-toan:kiem-toan`) soát: <file>, <kỳ>, <các khoản trọng yếu>".
 
 Trả lời trong chat mở đầu bằng `[KẾ TOÁN] đang xử lý`, kết thúc bằng việc cần Giám đốc quyết.
 

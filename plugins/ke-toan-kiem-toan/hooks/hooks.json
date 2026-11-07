@@ -1,0 +1,13 @@
+{
+  "description": "Hỏi người dùng trước mỗi lệnh Bash do agent kiem-toan chạy.",
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          { "type": "command", "command": "bash \"${CLAUDE_PLUGIN_ROOT}/scripts/kiem-toan-hoi-truoc-bash.sh\"" }
+        ]
+      }
+    ]
+  }
+}
